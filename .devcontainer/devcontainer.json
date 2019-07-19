@@ -1,4 +1,4 @@
 {
     "name": "react-shopping-cart",
-    "postCreateCommand": "yarn install"
+    "postCreateCommand": "npm install && npm start"
 }
